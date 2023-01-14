@@ -1,0 +1,152 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@500&display=swap');
+
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Work Sans', sans-serif;
+}
+.bg-color{
+    background-color: #f1e7db;
+}
+
+.container{
+    display: flex;
+    justify-content: space-around;
+    
+    
+     
+}
+.header{
+    font-size: 40px;
+    margin-top: 30px;
+}
+.items{
+    display: flex;
+    margin-top: 45px;
+    gap: 30px;
+    
+}
+.item{
+    list-style:none ;
+    margin-right: 20px;
+    font-size: 18px;
+    
+}
+
+/* <!-- second part start --> */
+.main{
+    text-align: center;
+    margin-top: 116px;
+}
+.head-tittle{
+    font-size: 64px;
+    
+}
+.paragraph{
+    font-size: 16px;
+    line-height: 26px;
+    margin-top: 20px;
+}
+.button{
+    color: aliceblue;
+    font-size: 20px;
+    height: 64px;
+    width: 180px;
+    border-radius: 10px;
+    border: none;
+    background-color:#FF900E ;
+    margin-top: 20px;
+}
+.picture{
+    height: 700px;
+    width: 1440px;
+    margin-top: 50px;
+    margin-left: 240px;
+}
+/* Third part start  */
+.images{
+    margin-left: 301px;
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    gap: 15px;
+    
+}
+.gray{
+    color: #727272;
+}
+.font{
+    font-weight: 900;
+}
+.colour{
+    color: #FF900E;
+}
+.image{
+    height: 340px;
+    width: 340px;
+    
+
+}
+.third-part{
+    display: flex;
+    margin-top:130px ;
+    
+}
+.section-two{
+    margin-left: 73px;
+    padding-top:200px ;
+    
+}
+.tittle{
+     font-size: 45px;
+     font-weight: 500;
+     
+}
+/* .fourth-part start */
+.fourth-section{
+    margin-left: 240px;
+}
+.image-section{
+    height:1059px ;
+    width: 800px;
+    margin-top: 100px;
+    justify-items: right;
+}
+.fourth-tittle{
+    font-weight: 800;
+    line-height:52.79px; 
+}
+.fourth-para{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+}
+.part-four{
+    
+    margin-top: 30px;
+}
+.part-four-0{
+    height:90px;
+    width: 586px;
+    margin-top: 30px;
+    box-shadow:5px 10px 10px rgb(155, 157, 158) ;
+}
+.part-four-1{
+    height:90px;
+    width: 586px;
+    margin-top: 20px;
+    box-shadow:5px 10px 10px rgb(155, 157, 158) ;
+}
+.part-four-2{
+    margin-top: 20px;
+    height:90px;
+    width: 586px;
+    box-shadow:5px 10px 10px rgb(155, 157, 158) ;
+}
+.part-four-3{
+    margin-top: 20px;
+    height:90px;
+    width: 586px;
+    box-shadow:5px 10px 10px rgb(155, 157, 158) ;
+}
+
+
